@@ -1,0 +1,12 @@
+Dane:
+I zbiór danych:
+- Imię i nazwisko — Ogólne
+- ID Pracownika — Wewnętrzne
+- Dane biometryczne np. odcisk palca — Poufne
+- Numer karty debetowej — Poufne
+
+II zbiór danych:
+- Imię i nazwisko — Ogólne
+- Nazwa stanowiska — Wewnętrzne
+- Zawód — Ogólne
+- Historia choroby — Poufne
